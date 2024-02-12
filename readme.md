@@ -6,6 +6,10 @@ An example CSS grid box layout for Niagara Falls.
 
 - [VS Code](https://code.visualstudio.com/ "VS Code")
 
+## Run
+
+To run the website, [click here](https://alikshah.github.io/web-css-niagara-falls-example/).
+
 ---
 
 &copy; Ali Shah 2024
