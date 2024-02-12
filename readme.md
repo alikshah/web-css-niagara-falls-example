@@ -8,7 +8,7 @@ An example CSS grid box layout for Niagara Falls.
 
 ## Run
 
-To run the website, [click here](https://alikshah.github.io/web-css-niagara-falls-example/).
+To run the website, [click here](https://alikshah.github.io/web-css-niagara-falls-example/niagara-student-start.html).
 
 ---
 
